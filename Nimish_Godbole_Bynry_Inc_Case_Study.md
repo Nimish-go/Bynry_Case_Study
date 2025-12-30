@@ -315,4 +315,4 @@ This solution demonstrates
 
 It balances **engineering best practices** with **business practically**, which is critically for B2B SaaS systems like ***Stockflow***.
 
-To access this is google drive click [Google Drive Doc Link](https://docs.google.com/document/d/1fcyqXunsYF-oNkGzgPcsQHwwOcrcCJtDQSMpOgS5xuQ/edit?usp=sharing).
+To access this in google drive click [Google Drive Doc Link](https://docs.google.com/document/d/1fcyqXunsYF-oNkGzgPcsQHwwOcrcCJtDQSMpOgS5xuQ/edit?usp=sharing).
